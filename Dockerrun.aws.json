@@ -1,0 +1,12 @@
+{
+      "AWSEBDockerrunVersion": "1",
+      "Image": {
+        "Name": "173904917797.dkr.ecr.us-east-1.amazonaws.com/ui-ux-cms:latest",
+        "Update": "true"
+      },
+      "Ports": [
+        {
+          "ContainerPort": "1337"
+        }
+      ]
+}
